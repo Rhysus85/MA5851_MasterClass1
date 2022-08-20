@@ -12,3 +12,6 @@ Files
   
 **datascrape_clean.csv **
   Dataset with HTML tagging removed. Used as the basis for the modelling.
+
+**MA5851_A3_NLPWebCrawler_Rhys_McMahon.docx**
+  Research paper that provides the context for each component of the code file.
